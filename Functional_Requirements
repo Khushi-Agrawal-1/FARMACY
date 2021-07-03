@@ -1,0 +1,28 @@
+FUNCTIONAL REQUIREMENTS
+
+A NEW USER CAN REGISTER
+New customers can create their account on the website by filling in details such as name,
+address, email etc. They can also set a password for security reasons.
+
+EXPLORE THROUGH DIFFERENT CATEGORIES
+Users can browse the products through a wide range of categories available. As the products are
+divided in categories it becomes easier for customers to filter and find what they want.
+
+SEARCH FOR A PRODUCT
+Instead of browsing through the categories the person can search for a particular product using
+the product name.
+
+ADD ITEMS TO CART
+The customer can add items ,he/she wishes to buy, in the cart
+
+EDIT CART
+Users can also edit the cart. They can delete an item from the cart and add new items.
+
+SORT PRODUCTS
+The users can sort the products on the basis of their price.
+
+UPDATE PROFILE DETAILS
+Users can update their account information if they wish to.
+
+VIEW TOTAL AMOUNT
+The customers can view what the total amount they have to pay in the cart.
